@@ -15,7 +15,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import CallLogAccessFile from './android/app/src/Components/CallLog';
+import CallLogAccessFile from './android/app/src/Components/CallLogfetchingData';
 
 
 
