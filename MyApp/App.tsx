@@ -15,8 +15,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import CallLogAccessFile from './android/app/src/Components/CallLogfetchingData';
-
+import CallLogAccessFile from './android/app/src/Components/CallLog';
 
 
 function App(): JSX.Element {
